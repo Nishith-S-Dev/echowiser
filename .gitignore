@@ -58,4 +58,4 @@ pytest_cache/
 .coverage.*
 
 # MyPy
-.mypy_cache/
+.mypy_cache/API.txt
